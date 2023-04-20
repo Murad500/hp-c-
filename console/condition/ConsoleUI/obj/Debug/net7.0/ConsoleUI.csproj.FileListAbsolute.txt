@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.exe
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.deps.json
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.runtimeconfig.json
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.dll
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.pdb
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.dll
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\refint\ConsoleUI.dll
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.pdb
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\HP\Desktop\c#\console\condition\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll

@@ -1,0 +1,30 @@
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.exe
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.deps.json
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.runtimeconfig.json
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.dll
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.pdb
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.dll
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\refint\ConsoleUI.dll
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.pdb
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\HP\Desktop\c# ders 2\Condition\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.exe
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.deps.json
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.runtimeconfig.json
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.dll
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\bin\Debug\net7.0\ConsoleUI.pdb
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.dll
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\refint\ConsoleUI.dll
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.pdb
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ConsoleUI.genruntimeconfig.cache
+C:\Users\HP\Desktop\c#\c# task\Condition\ConsoleUI\obj\Debug\net7.0\ref\ConsoleUI.dll

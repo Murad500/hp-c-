@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\c#\console\murad\bin\Debug\net7.0\murad.exe
+C:\Users\HP\Desktop\c#\console\murad\bin\Debug\net7.0\murad.deps.json
+C:\Users\HP\Desktop\c#\console\murad\bin\Debug\net7.0\murad.runtimeconfig.json
+C:\Users\HP\Desktop\c#\console\murad\bin\Debug\net7.0\murad.dll
+C:\Users\HP\Desktop\c#\console\murad\bin\Debug\net7.0\murad.pdb
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\murad.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\murad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\murad.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\murad.AssemblyInfo.cs
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\murad.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\murad.dll
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\refint\murad.dll
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\murad.pdb
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\murad.genruntimeconfig.cache
+C:\Users\HP\Desktop\c#\console\murad\obj\Debug\net7.0\ref\murad.dll
